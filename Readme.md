@@ -55,21 +55,13 @@ Fair-comparison guarantees:
 
 ## Visualizations
 
-Include these four plots in the README (crop from your composite and save under `figs/`):
-
 ```
 figs/best_accuracy.png            # bar chart: Best Test Accuracy
 figs/latency_batch.png            # bar chart: Inference Latency (ms/batch, with std)
 figs/speed_vs_accuracy.png        # scatter: Speed vs Accuracy trade-off
 figs/gradient_norms.png           # line: Gradient Norm (training stability)
 ```
-
-
-
-![Best Test Accuracy](figs/best_test_acc.png)
-![Inference Latency (ms/batch)](figs/latency_batch.png)
-![Speed vs Accuracy](figs/speed_vs_accuracy.png)
-![Gradient Norms](figs/gradient_norms.png)
+<p align="center"> <img src="figs/best_test_acc.png" alt="Best Test Accuracy" width="420"> <img src="figs/latency_batch.png" alt="Inference Latency (ms/batch)" width="420"> </p> <p align="center"> <img src="figs/speed_vs_accuracy.png" alt="Speed vs Accuracy trade-off" width="420"> <img src="figs/gradient_norms.png" alt="Gradient Norms (training stability)" width="420"> </p>
 
 
 ---
