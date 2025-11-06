@@ -65,14 +65,12 @@ figs/gradient_norms.png           # line: Gradient Norm (training stability)
 ```
 
 
-Embed:
 
-```markdown
 ![Best Test Accuracy](figs/best_test_acc.png)
 ![Inference Latency (ms/batch)](figs/latency_batch.png)
 ![Speed vs Accuracy](figs/speed_vs_accuracy.png)
 ![Gradient Norms](figs/gradient_norms.png)
-```
+
 
 ---
 
